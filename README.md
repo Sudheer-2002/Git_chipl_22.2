@@ -1,5 +1,4 @@
 # HII
-$ Sudheer
 ---
 ## HII
 ---
